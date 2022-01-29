@@ -1,0 +1,1 @@
+# bubble_js_plugin_estatistica
